@@ -1,0 +1,350 @@
+﻿@font-face {
+    font-family: 'utmavobold';
+    src: url('../fonts/utmavobold.eot');
+    src: local('utmavobold'), url('../fonts/utmavobold.woff') format('woff'), url('../fonts/utmavobold.ttf') format('truetype');
+}
+
+.fontsforweb_fontid_40182 {
+    font-family: 'utmavobold' !important;
+}
+
+body {
+    /*padding-top: 50px;
+    padding-bottom: 20px;*/
+    background-color: #fff !important;
+    font-size: 16px !important;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input {
+    /*max-width: 280px;*/
+    min-width: 100%;
+    border: 1px solid #ed1c24;
+    border-radius: 3px;
+    height: 40px;
+    padding: 5px;
+}
+
+::-webkit-input-placeholder {
+    color: #bcbcbc;
+    font-style: italic;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #bcbcbc;
+    font-style: italic;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #bcbcbc;
+    font-style: italic;
+}
+
+:-ms-input-placeholder {
+    color: #bcbcbc;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+    a:hover {
+        color: #fff !important;
+    }
+
+button {
+    width: 100px;
+    background-color: #ed1c24 !important;
+    border-radius: 3px;
+    font-weight: bold !important;
+    border: 1px solid #ed1c24 !important;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.dk {
+    background-color: #ffa500 !important;
+    border: 1px solid #ffa500 !important;
+}
+
+ul {
+    list-style: none !important;
+    margin-bottom: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav {
+    background-color: #fff;
+    overflow: hidden;
+    height: 200px;
+}
+
+section {
+    margin-bottom: 20px;
+    border: 1px solid #ed1c24;
+}
+
+h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    border-top: 2px dashed #fff;
+    border-bottom: 2px dashed #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px !important;
+    font-family: 'utmavobold' !important;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'utmavobold' !important;
+    font-weight: bold;
+    color: #ff0000;
+    padding: 30px 0 50px 0;
+}
+
+h4 {
+    text-align: center;
+    font-size: 20px !important;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'utmavobold' !important;
+}
+
+h5 {
+    font-size: 17px !important;
+    font-weight: bold;
+    font-family: 'utmavobold' !important;
+    text-align: center;
+    color: #000000;
+}
+
+img {
+    margin: 0 auto;
+}
+
+nav ul {
+    padding-top: 20px;
+}
+
+.header-hotline {
+    background: #ed4124;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+.cacmucqua {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+    .cacmucqua h4 {
+        color: #de331f;
+    }
+
+.tieude {
+    background-color: #ec4125;
+    padding: 10px;
+}
+
+.thoigianapdung {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+    .thoigianapdung h4 {
+        color: #ff0000;
+    }
+
+.cachtichdiem {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+    .cachtichdiem h4 {
+        color: #ff0000;
+    }
+
+    .cachtichdiem .buoc1 {
+        overflow: hidden;
+    }
+
+    .cachtichdiem .buoc2 {
+        overflow: hidden;
+    }
+
+        .cachtichdiem .buoc2 p {
+            text-align: center;
+        }
+
+#txtmess {
+    background-color: #eee;
+    border: 1px solid #de331f;
+    padding: 10px;
+}
+
+#mtxtmess {
+    background-color: #eee;
+    border: 1px solid #de331f;
+    padding: 10px;
+}
+#dtxtmess {
+    background-color: #eee;
+    border: 1px solid #de331f;
+    padding: 10px;
+}
+
+.chuthich {
+    padding: 50px 0;
+}
+
+    .chuthich h4 {
+        text-align: left;
+        padding: 0 30px;
+    }
+
+.note {
+    color: #2D2D2D !important;
+}
+
+.chuthich ul {
+    list-style: disc !important;
+    padding-left: 80px;
+    padding-right: 20px;
+}
+
+    .chuthich ul li {
+        text-align: justify !important;
+    }
+
+.tracuudiem {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.content {
+    padding: 50px 0;
+    overflow: hidden;
+}
+
+.cachdoiqua {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.content h4 {
+    padding: 0 0 50px 0;
+}
+
+.tronggio {
+    text-align: center;
+}
+
+.mota {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.dieukien {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+    .dieukien h5 {
+        padding: 50px 0;
+        color: #ed1c24;
+        font-style: italic;
+    }
+
+#khuyencao {
+    border: none;
+}
+
+.khuyencao .note {
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: black !important;
+}
+
+.khuyencao p {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+
+.khuyencao h4 {
+    padding-bottom: 0;
+}
+
+.line {
+    background-color: #ed1c24;
+    height: 30px;
+    margin-top: 30px;
+}
+
+.bottom-menu {
+    width: 100%;
+    background: #339933;
+    position: fixed;
+    z-index: 100000;
+    bottom: 0;
+    padding-top: 10px;
+    text-align: center;
+}
+
+    .bottom-menu ul {
+        margin: 0;
+    }
+
+    .bottom-menu p {
+        margin: 0;
+    }
+
+footer {
+    margin-bottom: 60px;
+    background-color: #fff !important;
+}
+
+@media(max-width:991px) {
+    nav {
+        display: none !important;
+    }
+}
+
+@media(max-width:820px) {
+    .bottom-menu span {
+        display: none;
+    }
+
+    footer {
+        margin-bottom: 20px;
+    }
+
+    .bottom-menu ul {
+        padding-bottom: 10px;
+    }
+}
+
+.loader {
+    display: inline-block;
+}

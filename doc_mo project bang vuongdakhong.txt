@@ -1,0 +1,4 @@
+HOST TÍCH ĐIỂM 
+https://137.59.106.72:8443/login_up.php?success_redirect_url=https%3A%2F%2F137.59.106.72%3A8443%2F
+hungdo.H6o11731 13tbES38AJd
+137.59.106.72

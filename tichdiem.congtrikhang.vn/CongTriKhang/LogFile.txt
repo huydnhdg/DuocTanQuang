@@ -1,0 +1,36 @@
+6/17/2019 10:08 AM: call api: 0965433459  tichdiem
+6/17/2019 10:08 AM: response: {"Result":{}}
+
+
+
+
+
+
+
+6/17/2019 10:08 AM: call api: 0965433459 fsdf tichdiem
+6/17/2019 10:08 AM: response: {"Result":{"code":"fsdf","msisdn":"84965433459","message":"Mã Code không đúng!","point":"0","status":"0"}}
+
+
+
+
+
+
+
+6/17/2019 10:08 AM: call api: 0965433459  kiemtra
+6/17/2019 10:08 AM: response: {"Result":{"code":"XXXX","msisdn":"84965433459","message":"Bạn chưa có điểm!","point":"0","status":"1"}}
+
+
+
+
+
+
+
+6/17/2019 10:08 AM: call api: 0965433459  doiqua
+6/17/2019 10:08 AM: response: {"Result":{"message":"Bạn không đủ điểm hoặc sai mã quà !"}}
+
+
+
+
+
+
+

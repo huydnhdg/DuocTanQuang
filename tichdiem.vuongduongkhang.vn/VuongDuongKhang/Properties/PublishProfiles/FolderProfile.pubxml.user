@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Bluesea1\Desktop\vuongduongkhang</_PublishTargetUrl>
+    <History>True|2023-02-14T10:03:42.7379324Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BigBB.dll">
+      <publishTime>02/05/2018 09:18:45</publishTime>
+    </File>
+    <File Include="bin/BigBB.pdb">
+      <publishTime>02/05/2018 09:18:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/14/2023 15:56:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>09/05/2017 14:54:18</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 04:57:14</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 04:57:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="bin/VuongDuongKhang.dll">
+      <publishTime>02/14/2023 17:03:38</publishTime>
+    </File>
+    <File Include="bin/VuongDuongKhang.pdb">
+      <publishTime>02/14/2023 17:03:38</publishTime>
+    </File>
+    <File Include="Content/animate.css">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/14/2023 16:52:01</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.eot">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.ttf">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="fonts/utmavobold.woff">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="image/12diem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/18diem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/18diem.png">
+      <publishTime>02/14/2023 16:34:48</publishTime>
+    </File>
+    <File Include="image/24diem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/30diem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/36diem.png">
+      <publishTime>02/14/2023 16:17:11</publishTime>
+    </File>
+    <File Include="image/6diem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/ajax-loader.gif">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/banner-bigbb-2018.jpg">
+      <publishTime>01/31/2018 09:57:51</publishTime>
+    </File>
+    <File Include="image/banner-vuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/banner.jpg">
+      <publishTime>02/14/2023 16:53:46</publishTime>
+    </File>
+    <File Include="image/bg3.png">
+      <publishTime>01/31/2018 11:22:04</publishTime>
+    </File>
+    <File Include="image/cac-buoc-thuc-hien-tich-diem-bigbb-2.png">
+      <publishTime>01/31/2018 11:00:55</publishTime>
+    </File>
+    <File Include="image/cac-muc-qua.png">
+      <publishTime>01/31/2018 09:59:35</publishTime>
+    </File>
+    <File Include="image/cach-tich-diem.png">
+      <publishTime>01/31/2018 09:59:35</publishTime>
+    </File>
+    <File Include="image/cachtichdiem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/cacmucqua.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/caothetichdiem.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/cu-phap-nhan-qua-bigbb,-bigbb-plus,-kaobb.png">
+      <publishTime>01/31/2018 10:55:03</publishTime>
+    </File>
+    <File Include="image/dathangvuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/diembanvuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/doi-10-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-15-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-30-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doi-6-hop-bigbb.png">
+      <publishTime>01/31/2018 10:14:48</publishTime>
+    </File>
+    <File Include="image/doiqua.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/hotline-doi-qua.png">
+      <publishTime>01/31/2018 11:02:27</publishTime>
+    </File>
+    <File Include="image/hotline.jpg">
+      <publishTime>02/14/2023 16:50:06</publishTime>
+    </File>
+    <File Include="image/hotline.png">
+      <publishTime>01/31/2018 13:56:34</publishTime>
+    </File>
+    <File Include="image/icon-hotline.png">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/logo.jpg">
+      <publishTime>02/14/2023 16:50:06</publishTime>
+    </File>
+    <File Include="image/logovuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:48</publishTime>
+    </File>
+    <File Include="image/lovuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/nap-bigbb-plus.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/nap-bigbb.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/nap-kaobb.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/thoi-gian-ap-dung.png">
+      <publishTime>01/31/2018 09:59:35</publishTime>
+    </File>
+    <File Include="image/thoigiantichdiem.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/tongdaivuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/tra-cuu-diem-bigbb,-bigbb-plus,-kaobb.png">
+      <publishTime>01/31/2018 10:44:59</publishTime>
+    </File>
+    <File Include="image/tracuudiem.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/vohopvuongduongkhang.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/vuongduongkhang202110.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-bigbb-plus1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-bigbb1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/xem-diem-ban-kaobb1.png">
+      <publishTime>01/31/2018 10:35:55</publishTime>
+    </File>
+    <File Include="image/zoomlo.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="image/zoomvohop.jpg">
+      <publishTime>02/14/2023 15:56:49</publishTime>
+    </File>
+    <File Include="Scripts/agency.min.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/callapi.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/dcallapi.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/mcallapi.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Scripts/wow.min.js">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Views/Default/Index.cshtml">
+      <publishTime>02/14/2023 16:35:45</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>02/14/2023 16:54:33</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>02/14/2023 15:56:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/14/2023 17:03:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

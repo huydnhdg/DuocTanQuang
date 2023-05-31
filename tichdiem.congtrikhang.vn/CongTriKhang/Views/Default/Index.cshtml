@@ -1,0 +1,260 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<section id="cacmucqua">
+    <div class="cacmucqua">
+        <div class="tieude">
+            <h2>CÁC MỨC QUÀ TẶNG</h2>
+        </div>
+
+        <div class="listqua">
+            <h4>CHƯƠNG TRÌNH ÁP DỤNG CHO CÁC NHÃ HÀNG CÔNG TRĨ KHANG</h4>
+            <ul>
+                <li class="col-md-4">
+                    <img src="~/image/congtri/6diem.jpg" alt="doi-1-hop" class="img-responsive wow bounceInLeft" />
+                </li>
+                <li class="col-md-4">
+                    <img src="~/image/congtri/12diem.jpg" alt="doi-12-hop" class="img-responsive wow bounceInDown" />
+                </li>
+                <li class="col-md-4">
+                    <img src="~/image/congtri/18diem.jpg" alt="doi-18-hop" class="img-responsive wow bounceInRight" />
+                </li>
+                <li class="col-md-6">
+                    <img src="~/image/congtri/24diem.jpg" alt="doi-24-hop" class="img-responsive wow bounceInLeft" />
+                </li>
+                <li class="col-md-6">
+                    <img src="~/image/congtri/30diem.jpg" alt="doi-30-hop" class="img-responsive wow bounceInRight" />
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section id="thoigianapdung">
+    <div class="thoigianapdung">
+        <div class="tieude">
+            <h2>THỜI GIAN ÁP DỤNG</h2>
+        </div>
+        <div class="content">
+            <h4>Từ ngày: 01/07/2019 đến hết ngày 30/04/2020</h4>
+        </div>
+    </div>
+</section>
+<section id="cachtichdiem">
+    <div class="cachtichdiem">
+        <div class="tieude">
+            <h2>CÁCH TÍCH ĐIỂM ĐỔI QUÀ</h2>
+        </div>
+        <div class="cachdoiqua">
+            <div class="buoc1">
+                <h3>BƯỚC 1: TÌM THẺ CÀO TÍCH ĐIỂM TRÊN HỘP HOẶC DẠNG LỌ CÔNG TRĨ KHANG</h3>
+                <ul>
+                    <li class="col-md-6">
+                        <div class="">
+                            <img src="~/image/congtri/zoomvuonggutkhang.jpg" alt="hop-congtri" class="img-responsive wow zoomIn" />
+                        </div>
+                    </li>
+                    <li class="col-md-6">
+                        <div class="">
+                            <img src="~/image/congtri/vohopvuonggutkhang.jpg" alt="vo-congtri" class="img-responsive wow zoomIn" />
+                        </div>
+                    </li>
+                    <li class="col-md-6">
+                        <div class="">
+                            <img src="~/image/congtri/lovuonggutkhang.jpg" alt="lo-congtri" class="img-responsive wow zoomIn" />
+                        </div>
+                    </li>
+                    <li class="col-md-6">
+                        <div class="">
+                            <img src="~/image/congtri/zoomlo.jpg" alt="vo-congtri" class="img-responsive wow zoomIn" />
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="buoc2">
+                <h3>BƯỚC 2: CÀO THẺ LẤY MÃ SỐ VÀ TÍCH ĐIỂM BẰNG MỘT TRONG HAI CÁCH</h3>
+                <div class="col-md-6">
+                    <h5>Cách 1: Tích điểm qua tổng đài 8077</h5>
+                    <img src="~/image/congtri/tichdiem.jpg" alt="cac-buoc-thuc-hien-tich-diem-congtri" class="img-responsive wow rotateInUpLeft" />
+                </div>
+                <div class="col-md-6">
+                    <h5>Cách 2: Tích điểm trực tiếp tại đây (miễn phí)</h5>
+                    @*<p>Đăng ký hoặc đăng nhập tài khoản để tích điểm</p>*@
+                    <div class="box">
+                        <div class="form-wrap">
+                            <form id="form-contact" class="form" method="post">
+                                <div class="">
+                                    <fieldset>
+                                        <div class="form-group">
+                                            <input type="number" name="phone" id="phone" required="required" placeholder="Nhập số điện thoại tích điểm tại đây">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" name="code" id="password" required="required" placeholder="Nhập mã thẻ cào tại đây">
+                                        </div>
+                                        <div class="form-group" style="display:none;">
+                                            <input type="text" name="commandcode" id="commandcode" value="tichdiem">
+                                        </div>
+                                        <div class="form-group">
+                                            <button id="btnSend" type="button" class="btn btn-primary btn-submit">
+                                                Tích điểm
+                                            </button>
+                                            <img src="~/image/ajax-loader.gif" class="loader" id="loader" style="display:none;" />
+                                            @*<button id="btnSend" type="submit" class="btn btn-primary btn-submit dk">
+                                                    Đăng ký
+                                                </button>*@
+                                        </div>
+                                        <div class="form-group">
+                                            <p style="display:none;" id="txtmess" class="text-warning wow bounceInRight"></p>
+                                        </div>
+                                    </fieldset>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="chuthich">
+                <h4>Với mỗi mã số nhắn tin thành công bạn sẽ được tích 1 điểm đối với dạng hộp và 3 điểm đối với dạng lọ.</h4>
+                <h4 class="note">Lưu ý:</h4>
+                <ul>
+                    <li>
+                        Điểm tích lũy được ghi nhận theo số điện thoại. Quý khách chỉ sử dụng 1 số điện thoại để tích điểm, nếu sử dụng 2 số điện thoại, hệ thống sẽ ghi nhận cho 2 người khác nhau.
+                    </li>
+                    <li>
+                        Chương trình áp dụng cho tất cả khách hàng sử dụng CÔNG TRĨ KHANG trên toàn quốc. Không áp dụng đối với chủ nhà thuốc hoặc cửa hàng để kinh doanh.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="tracuudiem">
+    <div class="tracuudiem">
+        <div class="tieude">
+            <h2>TRA CỨU ĐIỂM</h2>
+        </div>
+        <div class="content">
+            <div class="col-md-6">
+                <h5>Cách 1: Tra cứu qua tổng đài 8077</h5>
+                <img src="~/image/congtri/tracuu.jpg" alt="tra-cuu-diem-cong-tri" class="img-responsive wow rotateInUpLeft" />
+            </div>
+            <div class="col-md-6">
+                <h5>Cách 2: Tra cứu điểm tại đây (miễn phí)</h5>
+                <div class="box">
+                    <div class="form-wrap">
+                        <form id="mform-contact" class="form" method="post">
+                            <div class="">
+                                <fieldset>
+                                    <div class="form-group">
+                                        <input type="number" name="phone" id="mphone" required="required" placeholder="Nhập số điện thoại tích điểm tại đây">
+                                    </div>
+                                    @*<div class="form-group">
+                                            <input type="password" name="password" id="mpassword" required="required" placeholder="Nhập mật khẩu tại đây">
+                                        </div>*@
+                                    <div class="form-group" style="display:none;">
+                                        <input type="text" name="commandcode" id="mcommandcode" value="kiemtra">
+                                    </div>
+                                    <div class="form-group">
+                                        <button id="mbtnSend" type="button" class="btn btn-primary btn-submit">
+                                            Tra cứu
+                                        </button>
+                                        <img src="~/image/ajax-loader.gif" class="loader" id="mloader" style="display:none;" />
+                                        @*<button id="btnSend" type="submit" class="btn btn-primary btn-submit dk">
+                                                Đăng ký
+                                            </button>*@
+                                    </div>
+                                    <div class="form-group">
+                                        <p style="display:none;" id="mtxtmess" class="text-warning wow bounceInRight"></p>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="cachdoiqua">
+    <div class="cachdoiqua">
+        <div class="tieude">
+            <h2>CÁCH NHẬN QUÀ</h2>
+        </div>
+        <div class="content">
+            <h4>Khi đã tích đủ số điểm tương ứng với món quà tương ứng, bạn có thể đổi quà bằng một trong 2 cách sau:</h4>
+            <div class="col-md-6">
+                <h5>Cách 1: Nhắn tin theo cú pháp</h5>
+                <img src="~/image/congtri/doiqua.jpg" alt="doi-qua-congtri" class="img-responsive wow rotateInDownLeft" />
+                <p class="mota">Nhãn hàng sẽ gọi điện lại cho bạn trong vòng 72 giờ và sẽ chuyển đến trong thời gian sớm nhất.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Cách 2: Đổi quà trực tiếp tại đây (miễn phí)</h5>
+                <div class="box">
+                    <div class="form-wrap">
+                        <form id="dform-contact" class="form" method="post">
+                            <div class="">
+                                <fieldset>
+                                    <div class="form-group">
+                                        <input type="tel" name="phone" id="dphone" required="required" placeholder="Nhập số điện thoại để đổi quà">
+                                    </div>
+                                    @*<div class="form-group">
+                                            <input type="password" name="password" id="mpassword" required="required" placeholder="Nhập mật khẩu tại đây">
+                                        </div>*@
+                                    <div class="form-group" style="display:none;">
+                                        <input type="text" name="commandcode" id="dcommandcode" value="doiqua">
+                                    </div>
+                                    <div class="form-group">
+                                        <button id="dbtnSend" type="button" class="btn btn-primary btn-submit">
+                                            Tra cứu
+                                        </button>
+                                        <img src="~/image/ajax-loader.gif" class="loader" id="dloader" style="display:none;" />
+                                        @*<button id="btnSend" type="submit" class="btn btn-primary btn-submit dk">
+                                                Đăng ký
+                                            </button>*@
+                                    </div>
+                                    <div class="form-group">
+                                        <p style="display:none;" id="dtxtmess" class="text-warning wow bounceInRight"></p>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <p style="text-align:center;">Quà sẽ được chuyển đến cho bạn trong thời gian sớm nhất</p>
+            </div>
+        </div>
+    </div>
+</section>
+@*<section id="dieukien">
+        <div class="dieukien">
+            <h5>Nếu sản phẩm quý khách mua chưa có tem tích điểm, thì quý khách vẫn được cắt nắp đổi quà như trước đến hết ngày 30/06/2018</h5>
+        </div>
+    </section>*@
+<section id="khuyencao">
+    <div class="khuyencao">
+        <p class="note">Sản phẩm này không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh</p>
+        <ul>
+            <li class="col-md-4">
+                <a href="https://cobuitri.vn/diem-ban/">
+                    <img src="~/image/congtri/diemban.jpg" alt="xem-diem-ban-cong-tri" class="img-responsive wow slideInLeft" />
+                </a>
+            </li>
+            <li class="col-md-4">
+            </li>
+            <li class="col-md-4">
+                <a href="https://cobuitri.vn/dat-hang-online/">
+                    <img src="~/image/congtri/dathang.jpg" alt="dat-hang-online" class="img-responsive wow slideInRight" />
+                </a>
+            </li>
+        </ul>
+        <p>Số XNCB : 19262/2017/ATTP - XNCB</p>
+        <h4 style="">
+            Hotline chương trình quà tặng:
+
+            <a href="tel:0969 905 896">
+                <span style="vertical-align:middle;display:table-cell;"><img src="~/image/congtri/hot.jpg" /></span>
+            </a>
+        </h4>
+        
+    </div>
+</section>

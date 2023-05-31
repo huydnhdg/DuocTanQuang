@@ -1,0 +1,59 @@
+E:\bluesea.net\congtrikhang\BigBB\bin\BigBB.dll.config
+E:\bluesea.net\congtrikhang\BigBB\bin\BigBB.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\BigBB.pdb
+E:\bluesea.net\congtrikhang\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\Microsoft.Web.Infrastructure.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\Newtonsoft.Json.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Net.Http.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Security.Cryptography.Algorithms.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Security.Cryptography.Encoding.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Security.Cryptography.Primitives.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Security.Cryptography.X509Certificates.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Helpers.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Mvc.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Razor.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.Deployment.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.Razor.dll
+E:\bluesea.net\congtrikhang\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\Newtonsoft.Json.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Razor.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.Deployment.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Webpages.Razor.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Helpers.xml
+E:\bluesea.net\congtrikhang\BigBB\bin\System.Web.Mvc.xml
+E:\bluesea.net\congtrikhang\BigBB\obj\Release\CONGTRIKHANG.csproj.CoreCompileInputs.cache
+E:\bluesea.net\congtrikhang\BigBB\obj\Release\CONGTRIKHANG.csproj.CopyComplete
+E:\bluesea.net\congtrikhang\BigBB\obj\Release\BigBB.dll
+E:\bluesea.net\congtrikhang\BigBB\obj\Release\BigBB.pdb
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\BigBB.dll.config
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\BigBB.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\BigBB.pdb
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\Newtonsoft.Json.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Net.Http.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Helpers.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Mvc.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\Newtonsoft.Json.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Webpages.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Helpers.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\bin\System.Web.Mvc.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\obj\Release\CONGTRIKHANG.csproj.AssemblyReference.cache
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\obj\Release\CONGTRIKHANG.csproj.CoreCompileInputs.cache
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\obj\Release\CONGTRIKHANG.csproj.CopyComplete
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\obj\Release\BigBB.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.congtrikhang.vn\congtrikhang\obj\Release\BigBB.pdb

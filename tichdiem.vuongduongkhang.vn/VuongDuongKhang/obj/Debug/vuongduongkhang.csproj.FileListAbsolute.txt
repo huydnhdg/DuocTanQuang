@@ -1,0 +1,114 @@
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\BigBB.dll.config
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\BigBB.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\BigBB.pdb
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\Microsoft.Web.Infrastructure.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\Newtonsoft.Json.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Net.Http.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Security.Cryptography.Algorithms.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Security.Cryptography.Encoding.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Security.Cryptography.Primitives.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Security.Cryptography.X509Certificates.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Helpers.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Mvc.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Razor.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.Deployment.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.Razor.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\Newtonsoft.Json.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Razor.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.Deployment.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Webpages.Razor.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Helpers.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\bin\System.Web.Mvc.xml
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\obj\Debug\vuongduongkhang.csprojResolveAssemblyReference.cache
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\obj\Debug\vuongduongkhang.csproj.CoreCompileInputs.cache
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\obj\Debug\BigBB.dll
+E:\bluesea.net\TANQUANG\tichdiem.vuongduongkhang.vn\BigBB\BigBB\obj\Debug\BigBB.pdb
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.dll.config
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.pdb
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.Web.Infrastructure.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Newtonsoft.Json.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Net.Http.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Algorithms.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Encoding.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Primitives.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.X509Certificates.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Helpers.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Mvc.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Razor.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Deployment.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Razor.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Newtonsoft.Json.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Razor.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Deployment.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Razor.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Helpers.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Mvc.xml
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.CoreCompileInputs.cache
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.CopyComplete
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.dll
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.pdb
+D:\02_GitHub\01_TDXT_TANQUANG\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.AssemblyReference.cache
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.dll.config
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\VuongDuongKhang.pdb
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Newtonsoft.Json.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Net.Http.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Helpers.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Mvc.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Deployment.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Razor.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\Newtonsoft.Json.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Deployment.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Webpages.Razor.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Helpers.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\bin\System.Web.Mvc.xml
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.AssemblyReference.cache
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.CoreCompileInputs.cache
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.csproj.CopyComplete
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.dll
+C:\Users\thaih\OneDrive\Máy tính\TANQUANG\tichdiem.vuongduongkhang.vn\VuongDuongKhang\obj\Debug\VuongDuongKhang.pdb
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\VuongDuongKhang.dll.config
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\VuongDuongKhang.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\VuongDuongKhang.pdb
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\Newtonsoft.Json.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Helpers.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Mvc.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Razor.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\Newtonsoft.Json.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Razor.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Helpers.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\bin\System.Web.Mvc.xml
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\obj\Debug\vuongduongkhang.csproj.AssemblyReference.cache
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\obj\Debug\vuongduongkhang.csproj.CoreCompileInputs.cache
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\obj\Debug\vuongduongkhang.csproj.CopyComplete
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\obj\Debug\VuongDuongKhang.dll
+C:\Users\Bluesea1\Source\Repos\DUOCTANQUANG\tichdiem.vuongduongkhang.vn\vuongduongkhang\obj\Debug\VuongDuongKhang.pdb
